@@ -1,0 +1,7 @@
+# Python 3.9 - 3.12 recommended (MediaPipe wheels)
+streamlit>=1.35.0
+opencv-python>=4.9.0
+mediapipe>=0.10.14
+numpy>=1.24,<2.0
+pandas>=2.0
+imageio-ffmpeg>=0.4.9   # bundled ffmpeg -> re-encodes the annotated video to H.264 so browsers can play it

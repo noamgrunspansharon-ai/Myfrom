@@ -1,5 +1,5 @@
 """
-biomechanics.py
+
 ===============
 Pure NumPy biomechanics for the Track & Field AI Coach (no MediaPipe/OpenCV needed).
 
